@@ -12,14 +12,20 @@
   </a>
 </p>
 <div align="center">
+  
   ## Just Learnt
   
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
   ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+  ## My Stats 
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemaDeveloper)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
+
 
 
 
