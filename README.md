@@ -6,12 +6,16 @@
 - 📫 How to reach me: via email artemiifrid@gmail.com
 - ⚡ Fun fact: I hate frontend (cannot make it properly)
 
-<p align="center">
+
+<div align="center">
+
+  ## Stack of Technologies
+
+  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,docker,firebase,react,flutter,java,mysql,notion,postgres,postman,redis,rust,stackoverflow,vscode,kubernetes" />
   </a>
 </p>
-<div align="center">
   
   ## Just Learnt
   
