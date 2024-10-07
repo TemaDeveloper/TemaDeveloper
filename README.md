@@ -22,7 +22,7 @@
 
   ## My Stats 
 
-  <div align="horizontal">
+  <div align="vertical">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemaDeveloper&theme=radical&show_icons=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TemaDeveloper&layout=compact&hide=python)
