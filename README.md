@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,firebase,react,flutter,java,mysql,notion,postgres,postman,redis,rust,stackoverflow,vscode&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,firebase,react,flutter,java,mysql,notion,postgres,postman,redis,rust,stackoverflow,vscode,kubernetes&perline=4)](https://skillicons.dev)
 
 <!--
 **TemaDeveloper/TemaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
