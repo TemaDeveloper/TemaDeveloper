@@ -22,19 +22,19 @@
 
   ## My Stats 
 
-  <div style="display: flex; justify-content: center; align-items: horizontal; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-
-   <img 
-    src="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&theme=radical&show_icons=true" 
-    alt="GitHub Stats" 
-    style="max-width: 50%; height: auto;"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemaDeveloper&layout=compact&hide=python" 
-    alt="Top Languages" 
-    style="max-width: 50%; height: auto;"
-  />
+<h2>🏆 My Stats:</h2>
+  
+  <div style="display: flex; justify-content: center; gap: 20px; background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
+    
+    <div style="border: 1px solid #3e3e3e; border-radius: 10px; padding: 20px;">
+      <h3 style="color: #ffffff;">GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&theme=radical&show_icons=true" alt="GitHub Stats" />
+    </div>
+    
+    <div style="border: 1px solid #3e3e3e; border-radius: 10px; padding: 20px;">
+      <h3 style="color: #ffffff;">Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemaDeveloper&layout=compact&hide=python" alt="Top Languages" />
+    </div>
     
   </div>
   
