@@ -22,7 +22,7 @@
 
   ## My Stats 
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+  <div style="display: flex; justify-content: center; align-items: horizontal; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
 
    <img 
     src="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&theme=radical&show_icons=true" 
