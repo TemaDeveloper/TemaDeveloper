@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on web applications within a huge team
 - 💬 Ask me about backend development
 - 📫 How to reach me: via email artemiifrid@gmail.com
-- ⚡ Fun fact: I hate frontend (cannot make it properly)
 
 
 <div align="center">
