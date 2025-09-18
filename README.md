@@ -1,3 +1,6 @@
+
+![Black and White Classic Coming Soon Banner](https://github.com/user-attachments/assets/1d2fa99c-303e-44c9-9523-22ca413eade0)
+
 ## Hi there 👋
 
 - 🌱 I’m currently improving devops skills
@@ -8,26 +11,53 @@
 
 <div align="center">
 
-  ## Stack of Technologies
 
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,firebase,react,flutter,java,mysql,notion,postgres,postman,redis,rust,stackoverflow,vscode,kubernetes" />
-  </a>
-</p>
-  
-  ## Just Learnt
-  
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+-----
+
+### 💻 My Stack & Skills
+
+\<p align="center"\>
+\<a href="[https://skillicons.dev](https://skillicons.dev)"\>
+\<img src="[https://skillicons.dev/icons?i=python,js,nodejs,aws,docker,kubernetes,postgres,mongodb,figma](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,js,nodejs,aws,docker,kubernetes,postgres,mongodb,figma)" /\>
+\</a\>
+\</p\>
+
+-----
+
+### 🛣️ My Experience Roadmap
+
+#### Current
+
+  - `2024 - Present` **➡️ Backend Developer** at **[Your Current Company]**
+      - **The Mission:** Building scalable APIs and microservices from the ground up.
+      - **Key Achievements:**
+          - 🚀 Successfully launched a new API gateway.
+          - ✅ Improved system performance by 30% through targeted refactoring.
+
+#### Past
+
+  - `2022 - 2024` **➡️ Junior Software Engineer** at **[Your Previous Company]**
+      - **The Mission:** Contributing to the development and maintenance of the core product.
+      - **Key Achievements:**
+          - 🛠️ Developed a new feature that increased user engagement by 15%.
+          - ➡️ Led the migration of a legacy database, ensuring zero downtime.
+
+-----
 
   ## 🏆 My Stats 
 
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TemaDeveloper&theme=radical&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TemaDeveloper&layout=compact&hide=python) |
-|:---------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&show_icons=true" />
+</picture>|:---------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
 
 </div>
 
@@ -48,3 +78,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here is your full GitHub `README.md` file, ready to be copied and pasted.
+
+-----
+
+### 👋 Hi there, I'm **[Your Name]**\!
+
+I'm currently improving my DevOps skills and looking to collaborate on web applications within a huge team. Feel free to ask me about backend development and reach out to me via email at **[Your Email]**.
+
+
+### 📊 My GitHub Stats
+
+\<div align="center"\>
+\<img src="[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)[YourUsername]/[YourUsername]/main/github-metrics.svg" alt="GitHub Metrics" /\>
+\</div\>
+
+-----
+
+### 📌 Pinned Projects
+
+This section will automatically display your pinned repositories from your GitHub profile. You can select which projects to pin directly from your profile page.
