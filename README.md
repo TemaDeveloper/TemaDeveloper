@@ -50,6 +50,7 @@
     - 🌐 Applied practical knowledge of **Spring Boot** and **TypeScript** to enhance application functionality on both the backend and frontend.
     - ➡️ Assisted with deployment and container management using **Docker** and **Azure** in a professional environment.
 
+
 - `Jan 2025 - Present` **➡️ Mobile Application Developer** at **SparkEyes**
   - **The Mission:** Spearheaded the development of a cross-platform mobile application for iOS and Android, focusing on social connectivity and innovative user features.
   - **Key Achievements:**
@@ -82,9 +83,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
------
-
-### 📌 Pinned Projects
-
-This section will automatically display your pinned repositories from your GitHub profile. You can select which projects to pin directly from your profile page.
