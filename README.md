@@ -17,7 +17,7 @@
 ### 💻 My Stack & Skills
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,aws,docker,kubernetes,postgres,mongodb,figma" />
+<img src="https://skillicons.dev/icons?i=java,springboot,redis,flutter,git,js,nodejs,aws,docker,kubernetes,postgres,mongodb,figma&perline=7" />
 </a>
 </p>
 
@@ -43,19 +43,28 @@
 
 #### Current
 
-  - `2024 - Present` **➡️ Backend Developer** at **[Your Current Company]**
-      - **The Mission:** Building scalable APIs and microservices from the ground up.
-      - **Key Achievements:**
-          - 🚀 Successfully launched a new API gateway.
-          - ✅ Improved system performance by 30% through targeted refactoring.
+- `Sep 2025 - Present` **➡️ Software Engineering Intern** at **AI Financial**
+  - **The Mission:** Supports a team of engineers by developing new features and ensuring the reliability of core applications.
+  - **Key Achievements:**
+    - 🛠️ Actively involved in the full development cycle, from bug fixes and feature development to writing comprehensive **unit tests**.
+    - 🌐 Applied practical knowledge of **Spring Boot** and **TypeScript** to enhance application functionality on both the backend and frontend.
+    - ➡️ Assisted with deployment and container management using **Docker** and **Azure** in a professional environment.
+
+- `Jan 2025 - Present` **➡️ Mobile Application Developer** at **SparkEyes**
+  - **The Mission:** Spearheaded the development of a cross-platform mobile application for iOS and Android, focusing on social connectivity and innovative user features.
+  - **Key Achievements:**
+    - 🚀 Developed a robust UI with **Flutter** and managed state with **BLOC**, enhancing application maintainability and scalability.
+    - ✅ Integrated **Retrofit**, **Firebase**, and **ObjectBox** within an **MVVM/MVC** architectural pattern to ensure efficient data management.
+    - 🤝 Collaborated closely with the backend team, establishing seamless **RESTful communication** with **Spring Boot** services to ensure high performance and smooth data integration.
 
 #### Past
 
-  - `2022 - 2024` **➡️ Junior Software Engineer** at **[Your Previous Company]**
-      - **The Mission:** Contributing to the development and maintenance of the core product.
-      - **Key Achievements:**
-          - 🛠️ Developed a new feature that increased user engagement by 15%.
-          - ➡️ Led the migration of a legacy database, ensuring zero downtime.
+- `Feb 2024 - Dec 2024` **➡️ Full-Stack Freelance Developer** at **Fiverr**
+  - **The Mission:** Developed and delivered custom mobile and web applications for a diverse range of clients, managing the full project lifecycle from concept to deployment.
+  - **Key Achievements:**
+    - 🚀 Independently managed end-to-end development of mobile apps using **Flutter** and native **Java (Android)**.
+    - 🌐 Built and deployed responsive web applications and backend services with **JavaScript** and **Rust (Axum)**.
+    - ☁️ Utilized **Docker** and **AWS** to streamline deployment and ensure high performance for all delivered solutions.
 
 
 <!--
