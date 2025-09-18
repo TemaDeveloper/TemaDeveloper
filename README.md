@@ -17,7 +17,7 @@
 ### 💻 My Stack & Skills
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,springboot,redis,flutter,git,js,nodejs,aws,docker,kubernetes,postgres,mongodb,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,spring,githubactions,nginx,rust,redis,flutter,git,js,nodejs,aws,docker,kubernetes,postgres,mongodb,figma&perline=8" />
 </a>
 </p>
 
