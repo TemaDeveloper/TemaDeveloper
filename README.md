@@ -16,11 +16,10 @@
 
 ### 💻 My Stack & Skills
 
-\<p align="center"\>
-\<a href="[https://skillicons.dev](https://skillicons.dev)"\>
-\<img src="[https://skillicons.dev/icons?i=python,js,nodejs,aws,docker,kubernetes,postgres,mongodb,figma](https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,js,nodejs,aws,docker,kubernetes,postgres,mongodb,figma)" /\>
-\</a\>
-\</p\>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,aws,docker,kubernetes,postgres,mongodb,figma" />
+</a>
+</p>
 
 -----
 
@@ -57,10 +56,6 @@
       - **Key Achievements:**
           - 🛠️ Developed a new feature that increased user engagement by 15%.
           - ➡️ Led the migration of a legacy database, ensuring zero downtime.
-
------
-
-
 
 
 <!--
