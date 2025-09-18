@@ -24,6 +24,22 @@
 
 -----
 
+  ## 🏆 My Stats 
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&show_icons=true" />
+</picture>
+</div>
+
 ### 🛣️ My Experience Roadmap
 
 #### Current
@@ -44,23 +60,6 @@
 
 -----
 
-  ## 🏆 My Stats 
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&show_icons=true" />
-</picture>|:---------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-
-</div>
-
 
 
 
@@ -79,20 +78,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here is your full GitHub `README.md` file, ready to be copied and pasted.
-
------
-
-### 👋 Hi there, I'm **[Your Name]**\!
-
-I'm currently improving my DevOps skills and looking to collaborate on web applications within a huge team. Feel free to ask me about backend development and reach out to me via email at **[Your Email]**.
-
-
-### 📊 My GitHub Stats
-
-\<div align="center"\>
-\<img src="[https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)[YourUsername]/[YourUsername]/main/github-metrics.svg" alt="GitHub Metrics" /\>
-\</div\>
 
 -----
 
