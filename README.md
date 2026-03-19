@@ -3,28 +3,32 @@
 
 ## Hi there 👋
 
-- 🌱 I’m currently improving devops skills
-- 👯 I’m looking to collaborate on web applications within a huge team
-- 💬 Ask me about backend development
-- 📫 How to reach me: via email artemiifrid@gmail.com
-
+- 🌱 Currently improving DevOps and scalable system design
+- 🤝 Open to collaborating on large-scale web / AI applications
+- 💬 Ask me about backend systems, RAG, and AI integrations
+- 📫 Reach me: artemiifrid@gmail.com
 
 <div align="center">
 
-
 -----
 
-### 💻 My Stack & Skills
+### 💻 Tech Stack
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,spring,githubactions,nginx,rust,redis,flutter,git,js,nodejs,aws,docker,kubernetes,postgres,mongodb,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,nextjs,ts,python,githubactions,nginx,rust,redis,flutter,git,aws,docker,kubernetes,postgres,mongodb,firebase,figma&perline=8" />
 </a>
-</p>
 
 -----
 
-  ## 🏆 My Stats 
+## 🧠 AI & Backend Focus
+- Retrieval-Augmented Generation (RAG)
+- LLM systems, RLHF, Model Evaluation
+- Scalable backend architecture (Spring Boot, Node.js)
+- CI/CD, containerization, cloud deployment
 
+-----
+
+## 🏆 Stats 
 
 <picture>
   <source
@@ -37,49 +41,52 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=TemaDeveloper&show_icons=true" />
 </picture>
+
 </div>
 
-### 🛣️ My Experience Roadmap
+-----
 
-#### Current
+## 🛣️ Experience
 
-- `Sep 2025 - Present` **➡️ Software Engineering Intern** at **AI Financial**
-  - **The Mission:** Supports a team of engineers by developing new features and ensuring the reliability of core applications.
-  - **Key Achievements:**
-    - 🛠️ Actively involved in the full development cycle, from bug fixes and feature development to writing comprehensive **unit tests**.
-    - 🌐 Applied practical knowledge of **Spring Boot** and **TypeScript** to enhance application functionality on both the backend and frontend.
-    - ➡️ Assisted with deployment and container management using **Docker** and **Azure** in a professional environment.
+### `Sep 2025 – Jan 2026` ➡️ **Full-Stack Developer Intern** | AI Financial  
+- Developed backend and frontend features using **Spring Boot, TypeScript, Docker**  
+- Built and deployed services in a **containerized Azure environment**  
+- Implemented **JUnit + Mockito testing**, reducing defects by ~30%  
+- Collaborated in Agile team using **Jira, Git workflows**
 
+---
 
-- `Jan 2025 - Present` **➡️ Mobile Application Developer** at **SparkEyes**
-  - **The Mission:** Spearheaded the development of a cross-platform mobile application for iOS and Android, focusing on social connectivity and innovative user features.
-  - **Key Achievements:**
-    - 🚀 Developed a robust UI with **Flutter** and managed state with **BLOC**, enhancing application maintainability and scalability.
-    - ✅ Integrated **Retrofit**, **Firebase**, and **ObjectBox** within an **MVVM/MVC** architectural pattern to ensure efficient data management.
-    - 🤝 Collaborated closely with the backend team, establishing seamless **RESTful communication** with **Spring Boot** services to ensure high performance and smooth data integration.
+### `Jan 2025 – Oct 2025` ➡️ **Mobile Application Developer** | SparkEyes  
+- Led development of cross-platform app using **Flutter + BLoC**  
+- Integrated backend with **Spring Boot REST APIs**  
+- Used **Firebase** for real-time data and authentication  
+- Designed scalable architecture (MVVM) and collaborated via Agile
 
-#### Past
+---
 
-- `Feb 2024 - Dec 2024` **➡️ Full-Stack Freelance Developer** at **Fiverr**
-  - **The Mission:** Developed and delivered custom mobile and web applications for a diverse range of clients, managing the full project lifecycle from concept to deployment.
-  - **Key Achievements:**
-    - 🚀 Independently managed end-to-end development of mobile apps using **Flutter** and native **Java (Android)**.
-    - 🌐 Built and deployed responsive web applications and backend services with **JavaScript** and **Rust (Axum)**.
-    - ☁️ Utilized **Docker** and **AWS** to streamline deployment and ensure high performance for all delivered solutions.
+### `Nov 2025 – Feb 2026` ➡️ **LLM Trainer** | Outlier  
+- Improved LLM performance using **RLHF techniques**  
+- Evaluated outputs for reasoning, accuracy, and linguistic quality  
 
+---
 
-<!--
-**TemaDeveloper/TemaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
 
-Here are some ideas to get you started:
+### Reflectif — Gen AI System
+- Built **“Backboard” RAG memory system** using Python, Redis, MongoDB for long-term contextual recall  
+- Developed **AI ↔ user chat system** integrating retrieval + generation pipeline  
+- Implemented **AI onboarding flow** to capture user context and generate **voice profile baseline**  
+- Engineered pipelines for **personalized inference and behavioral feedback**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### Freelance Work — Fiverr (2024)
+- Delivered full-stack apps using **Flutter, Java, Rust (Axum), Node.js**  
+- Managed full lifecycle: development → deployment (**Docker, AWS**)  
+
+-----
+
+## 🎯 Focus
+- Backend engineering (Spring Boot / Node.js)
+- AI-powered applications (RAG, LLM systems)
+- DevOps & scalable infrastructure
